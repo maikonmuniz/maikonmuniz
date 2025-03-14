@@ -1,6 +1,4 @@
-# Olá, eu sou [Seu Nome] ✨
-
-![GitHub Banner](https://your-image-link.com)
+# Olá, sejá bem-vindo! ✨
 
 ## 🌟 Sobre Mim
 
