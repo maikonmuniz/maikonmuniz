@@ -14,6 +14,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maikonmuniz&layout=compact&theme=tokyonight&langs_count=8&card_width=500)
+
 # 🌍 Onde Me Encontrar  
 📩 **Email:** maikon.muniz@yahoo.com.br
 🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maikon-muniz-da-silva-72a155187/)  
