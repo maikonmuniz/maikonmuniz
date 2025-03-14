@@ -2,7 +2,7 @@
 
 ## 🌟 Sobre Mim
 
-- 💻 Desenvolvedor apaixonado por tecnologia e inovação  
+- 💻 Desenvolvedor apaixonado por arquiteturas e padroes de projetos 
 - ☕ Meu hobby é programar e tomar café
 - 🌍 Sempre aprendendo coisas novas  
 
