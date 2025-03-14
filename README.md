@@ -13,3 +13,7 @@
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+# 🌍 Onde Me Encontrar  
+📩 **Email:** maikon.muniz@yahoo.com.br
+🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maikon-muniz-da-silva-72a155187/)  
