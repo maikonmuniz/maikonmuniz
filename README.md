@@ -2,11 +2,11 @@
 
 ## 🌟 Sobre Mim
 
-- 💻 Desenvolvedor apaixonado por arquiteturas e padroes de projetos 
+- 💻 Desenvolvedor apaixonado por arquiteturas e padroes de projetos. Sou formado em Sistemas da Informação e estou na area desde 2020.
 - ☕ Meu hobby é programar e tomar café
 - 🌍 Sempre aprendendo coisas novas  
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Minhas Técnologias
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
