@@ -2,7 +2,7 @@
 
 ## 🌟 Sobre Mim
 
-- 💻 Desenvolvedor apaixonado por arquiteturas e padroes de projetos. Sou formado em Sistemas da Informação e estou na area desde 2020.
+- 💻 Desenvolvedor apaixonado por arquiteturas e padrões de projetos. Sou formado em Sistemas da Informação e estou na area desde 2021. 
 - ☕ Meu hobby é programar e tomar café
 - 🌍 Sempre aprendendo coisas novas  
 
